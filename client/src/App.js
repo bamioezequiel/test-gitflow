@@ -7,11 +7,7 @@ import './App.css';
 
 // HOLA!!!! SOY UN CAMBIO!!!!!
 
-
-// HOLA!!!! SOY UN CAMBIO!!!!!
-// otro comentario
-
-// VAMOS A HACER UN CAMBIO JEJE
+const NUEVO_CAMBIO_DE_PRUEBA = ["JE", "JE"];
 
 function App() {
   return (
