@@ -9,7 +9,7 @@ import './App.css';
 
 
 const NUEVO_CAMBIO_DE_PRUEBA = ["JE", "JE"];
-=======
+// NO MAS CONFLICTOS
 
 const AGREGAMOS_OTRO_CAMBIO = {};
 
