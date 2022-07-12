@@ -3,8 +3,13 @@ import './App.css';
 
 
 
+<<<<<<< HEAD
 // HOLA!!!! SOY UN CAMBIO!!!!!
 // otro comentario
+=======
+
+// VAMOS A HACER UN CAMBIO JEJE
+>>>>>>> 73fc0a0a7abd96b2883500bb04e0ebfbb96f4f28
 function App() {
   return (
     <div className="App">
