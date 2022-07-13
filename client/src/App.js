@@ -1,27 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 
-// otra cosa mas
-
-// HAY QUE ROMPER GITHUB XD
-
-// HOLA!!!! SOY UN CAMBIO!!!!!
-
-
-const NUEVO_CAMBIO_DE_PRUEBA = ["JE", "JE"];
-// NO MAS CONFLICTOS
-// WUACA WUACA
-
-const AGREGAMOS_OTRO_CAMBIO = {};
-
-// OTRO CAMBIO
-
-// HOLA!!!! SOY UN CAMBIO!!!!!
-// otro comentario
-
-// VAMOS A HACER UN CAMBIO JEJE
-
-
 function App() {
   return (
     <div className="App">
