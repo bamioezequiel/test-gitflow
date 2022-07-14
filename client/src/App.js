@@ -6,6 +6,7 @@ import Home from './components/Home/Home';
 function App() {
   return (
     <div>
+      <h1>Pelicula pirata :B</h1>
       <Nav />
       <Home />
     </div>
