@@ -4,7 +4,9 @@ import Card from "../Card/Card";
 export default function Home() {
     return (
         <div>
-            <h1>asdasd</h1>
+            <h1>Home</h1>
+            <h3>cambio</h3>
+
             <Card />
         </div>
     )
