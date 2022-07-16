@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Argentina",
+        "description": "",
+        "image": "",
+        "id_destination": 0
+    },
+    {
+        "id": 2,
+        "name": "Brasil",
+        "description": "",
+        "image": "",
+        "id_destination": 0
+    },
+    {
+        "id": 3,
+        "name": "España",
+        "description": "",
+        "image": "",
+        "id_destination": 0
+    },
+    {
+        "id": 4,
+        "name": "Japon",
+        "description": "",
+        "image": "",
+        "id_destination": 0
+    },
+    {
+        "id": 5,
+        "name": "Australia",
+        "description": "",
+        "image": "",
+        "id_destination": 0
+    }
+]

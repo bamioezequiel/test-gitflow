@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Familiar",
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "Mayores",
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "name": "Extrema",
+        "description": "",
+        "image": ""
+    },
+    {
+        "id": 4,
+        "name": "Niños",
+        "description": "",
+        "image": ""
+    }
+]
