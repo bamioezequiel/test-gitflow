@@ -5,6 +5,7 @@ export default function Card() {
         <div>
             <h3>HOla</h3>
             <h2>Probando comando merge</h2>
+
         </div>
     )
 }

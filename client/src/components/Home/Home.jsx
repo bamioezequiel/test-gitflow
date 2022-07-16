@@ -6,6 +6,7 @@ export default function Home() {
         <div>
             <h1>Home</h1>
             <h3>cambio</h3>
+
             <Card />
         </div>
     )
