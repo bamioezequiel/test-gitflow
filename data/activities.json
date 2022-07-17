@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Tour de paradas obligadas",
+        "name": "Tour de Highlights",
         "description": "",
         "image": "",
         "price": 0,
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "name": "Las elecciones mas populares",
+        "name": "Tour de Museos",
         "description": "",
         "image": "",
         "price": 0,
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "name": "Experiencias gastronomicas",
+        "name": "Tour de Monumentos",
         "description": "",
         "image": "",
         "price": 0,
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "name": "Tours historicos",
+        "name": "Tour Gastronomía Nacional",
         "description": "",
         "image": "",
         "price": 0,
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "name": "Tours de arte",
+        "name": "Pub Crawl",
         "description": "",
         "image": "",
         "price": 0,
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "name": "Parques",
+        "name": "Tour en Bicicleta",
         "description": "",
         "image": "",
         "price": 0,
@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "name": "Teatros",
+        "name": "Tour Parques",
         "description": "",
         "image": "",
         "price": 0,
@@ -57,7 +57,7 @@
     },
     {
         "id": 8,
-        "name": "Surf",
+        "name": "Camping en Parques Naturales",
         "description": "",
         "image": "",
         "price": 0,
@@ -65,7 +65,7 @@
     },
     {
         "id": 9,
-        "name": "Esqui",
+        "name": "Tour a Pie",
         "description": "",
         "image": "",
         "price": 0,
@@ -73,7 +73,7 @@
     },
     {
         "id": 10,
-        "name": "Cabalgata",
+        "name": "Tour de Arte Callejero",
         "description": "",
         "image": "",
         "price": 0,
@@ -81,31 +81,188 @@
     },
     {
         "id": 11,
-        "name": "Kayak",
+        "name": "Ski",
         "description": "",
         "image": "",
         "price": 0,
         "classification": 0
-    },{
+    },
+    {
         "id": 12,
-        "name": "Rafting",
+        "name": "Surf",
         "description": "",
         "image": "",
         "price": 0,
         "classification": 0
-    },{
+    },
+    {
         "id": 13,
-        "name": "Paracaidismo",
-        "description": "",
-        "image": "",
-        "price": 0,
-        "classification": 0
-    },{
-        "id": 14,
         "name": "Bungee Jumping",
         "description": "",
         "image": "",
         "price": 0,
         "classification": 0
+    },
+    {
+        "id": 14,
+        "name": "Paracaidismo",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 15,
+        "name": "Parapente",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 16,
+        "name": "Kite Surf",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 17,
+        "name": "Wind Surf",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 18,
+        "name": "Ciclismo de montaña",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 19,
+        "name": "Circuito en barco/catamaran/lancha/góndola",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 20,
+        "name": "Cabalgata",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 21,
+        "name": "Safari",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 22,
+        "name": "Tour de Viñedos (Cata de vinos)",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 23,
+        "name": "Carnaval",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 24,
+        "name": "Buceo",
+        "description": "",
+        "image": "https://imgur.com/SiSKmQm.jpg",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 25,
+        "name": "Trekking",
+        "description": "",
+        "image": "https://imgur.com/y1IP8OM.jpg",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 26,
+        "name": "Escalar",
+        "description": "",
+        "image": "https://imgur.com/j1KW3WZ.jpg",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 27,
+        "name": "Canopy",
+        "description": "",
+        "image": "https://imgur.com/fkTUwf8.jpg",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 28,
+        "name": "Ciclismo",
+        "description": "",
+        "image": "https://imgur.com/q5L311O.jpg",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 29,
+        "name": "Rappel",
+        "description": "",
+        "image": "https://imgur.com/vA78NbL.jpg",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 30,
+        "name": "Pesca",
+        "description": "",
+        "image": "https://imgur.com/VAjqMpC.jpg",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 31,
+        "name": "Vuelo en Globo",
+        "description": "",
+        "image": "https://imgur.com/t92NQux.jpg",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 32,
+        "name": "Vista paronámica de la ciudad en Helicóptero",
+        "description": "",
+        "image": "https://imgur.com/kwahjDt.jpg",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 33,
+        "name": "Bus Turistico",
+        "description": "",
+        "image": "https://imgur.com/18vbrp4.jpg",
+        "price": 0,
+        "classification": 0
     }
+
+    
 ]
