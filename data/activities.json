@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "name": "Tour de paradas obligadas",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 2,
+        "name": "Las elecciones mas populares",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 3,
+        "name": "Experiencias gastronomicas",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 4,
+        "name": "Tours historicos",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 5,
+        "name": "Tours de arte",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 6,
+        "name": "Parques",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 7,
+        "name": "Teatros",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 8,
+        "name": "Surf",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 9,
+        "name": "Esqui",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 10,
+        "name": "Cabalgata",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },
+    {
+        "id": 11,
+        "name": "Kayak",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },{
+        "id": 12,
+        "name": "Rafting",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },{
+        "id": 13,
+        "name": "Paracaidismo",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    },{
+        "id": 14,
+        "name": "Bungee Jumping",
+        "description": "",
+        "image": "",
+        "price": 0,
+        "classification": 0
+    }
+]
