@@ -4,8 +4,12 @@ import Card from "../Card/Card";
 export default async function Home() {
     
     return (
-        <div> 
-            
+
+        <div>
+            <h1>Home</h1>
+            <h3>cambio</h3>
+            <Card />
+
         </div>
     )
 }
