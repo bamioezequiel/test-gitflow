@@ -1,0 +1,27 @@
+[
+    {
+       "id": 1,
+       "name": "Verano",
+       "image": "" 
+    },
+    {
+        "id": 2,
+        "name": "Otoño",
+        "image": "" 
+    },
+    {
+        "id": 3,
+        "name": "Invierno",
+        "image": "" 
+    },
+    {
+        "id": 4,
+        "name": "Primavera",
+        "image": "" 
+    },
+    {
+       "id": 5,
+       "name": "Especial",
+       "image": "" 
+    }
+]
