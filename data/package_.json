@@ -5,13 +5,15 @@
         "description": "Description [1000]",
         "images": ["4 imagenes | (jpg) | resolución minima, 1000px. [obligatorio]"],
         "price": 0,
-        "featured": false,
+        "featured": 0,
         "start_date": "aaaa-mm-dd",
         "end_date": "aaaa-mm-dd",
         "available": false,
         "on_sale": "0%", 
-        "id_destination": "Argentina | id: 1",
-        "id_season": "Invierno | id: 3",
-        "id_type": "Escapada de finde semana | id: 2"
+        "region": "string (datatype.ENUM)",
+        "id_destination": ["id_destinos"],
+        "seasson": "season (datatype.ENUM)",
+        "type": "string (datatype.ENUM)",
+        "category": "string (datatype.ENUM)"
     }
 ]
