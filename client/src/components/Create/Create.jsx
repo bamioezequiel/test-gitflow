@@ -9,6 +9,7 @@ export default function Create() {
         <div>
             <h2>Create</h2>
             <h3>Cambio para el pull</h3>
+            {/* cambio */}
         </div>
     )
 }
