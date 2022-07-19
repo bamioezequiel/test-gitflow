@@ -8,6 +8,7 @@ export default function Create() {
     return (
         <div>
             <h2>Create</h2>
+            <h3>Cambio para el pull</h3>
         </div>
     )
 }
